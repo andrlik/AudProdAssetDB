@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "audprodassetdb"
+version = "0.1.0"
+description = "A tool to build and indexed database of your assets to use in audio production."
+authors = ["Daniel Andrlik <daniel@andrlik.org>"]
+license = "BSD-3-Clause"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
