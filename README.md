@@ -10,6 +10,7 @@
 ![Test results](https://github.com/andrlik/AudProdAssetDB/actions/workflows/ci.yml/badge.svg)
 ![Codestyle check results](https://github.com/andrlik/AudProdAssetDB/actions/workflows/codestyle.yml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/andrlik/AudProdAssetDB/badge.svg?branch=main)](https://coveralls.io/github/andrlik/AudProdAssetDB?branch=main)
+[![Documentation](https://img.shields.io/badge/docs-mkdocs-blue)](https://andrlik.github.io/AudProdAssetDB/)
 
 ## Planned Features
 
