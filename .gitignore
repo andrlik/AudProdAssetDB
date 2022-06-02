@@ -34,8 +34,10 @@ MANIFEST
 *.spec
 
 # SQLite Databases
-*/assets.db
-*/assets.db-*
+assets.db
+assets.db-*
+tests/assets.db
+tests/assets.db-*
 
 # Installer logs
 pip-log.txt
