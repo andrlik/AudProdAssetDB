@@ -14,7 +14,7 @@
 
 ## Planned Features
 
-- Indexes assets such as licensed music, SFX, etc. into a searchable database.
-- Assign tags to assets and any credits required, as well as recording license sourcing for your freelance work.
-- Mark assets as used for a given episode and then export show-note credits by episode.
-- Optionally sync data to companion web-service for both backups and integration with invoicing tools.
+- [ ] Indexes assets such as licensed music, SFX, etc. into a searchable database.
+- [ ] Assign tags to assets and any credits required, as well as recording license sourcing for your freelance work.
+- [ ] Mark assets as used for a given episode and then export show-note credits by episode.
+- [ ] Optionally sync data to companion web-service for both backups and integration with invoicing tools.
