@@ -23,7 +23,7 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.tasklist:
       custom_checkbox: true
-  - admonitions
+  - admonition
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.details
